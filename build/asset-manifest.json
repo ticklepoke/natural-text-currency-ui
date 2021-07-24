@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/natural-text-currency-ui/static/css/main.baedb301.chunk.css",
+    "main.js": "/natural-text-currency-ui/static/js/main.9e1f003d.chunk.js",
+    "main.js.map": "/natural-text-currency-ui/static/js/main.9e1f003d.chunk.js.map",
+    "runtime-main.js": "/natural-text-currency-ui/static/js/runtime-main.2605e6ee.js",
+    "runtime-main.js.map": "/natural-text-currency-ui/static/js/runtime-main.2605e6ee.js.map",
+    "static/js/2.55fdd18b.chunk.js": "/natural-text-currency-ui/static/js/2.55fdd18b.chunk.js",
+    "static/js/2.55fdd18b.chunk.js.map": "/natural-text-currency-ui/static/js/2.55fdd18b.chunk.js.map",
+    "static/js/3.f10e4171.chunk.js": "/natural-text-currency-ui/static/js/3.f10e4171.chunk.js",
+    "static/js/3.f10e4171.chunk.js.map": "/natural-text-currency-ui/static/js/3.f10e4171.chunk.js.map",
+    "index.html": "/natural-text-currency-ui/index.html",
+    "static/css/main.baedb301.chunk.css.map": "/natural-text-currency-ui/static/css/main.baedb301.chunk.css.map",
+    "static/js/2.55fdd18b.chunk.js.LICENSE.txt": "/natural-text-currency-ui/static/js/2.55fdd18b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2605e6ee.js",
+    "static/js/2.55fdd18b.chunk.js",
+    "static/css/main.baedb301.chunk.css",
+    "static/js/main.9e1f003d.chunk.js"
+  ]
+}
